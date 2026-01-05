@@ -2,7 +2,7 @@
   "name": "Tuition Manager",
   "short_name": "Tuition",
   "description": "Manage your tuition classes efficiently",
-  "start_url": "/https://kunalpal258-bit.github.io/tuition-manager/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
