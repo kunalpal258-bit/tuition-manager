@@ -1,18 +1,32 @@
 {
+  "name": "Tuition Manager",
+  "short_name": "Tuition",
+  "id": "io.github.kunalpal258.tuition",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
   "background_color": "#ffffff",
+  "theme_color": "#2563eb",
   "description": "Tuition Manager - Manage your tuition classes",
   "dir": "ltr",
-  "display": "standalone",
-  "name": "kunalpal258-bit.github",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "kunalpal258-bit.github",
-  "start_url": "/",
-  "theme_color": "#2563eb",
-  "id": "io.github.kunalpal258.tution",
   "lang": "en",
+  "orientation": "any",
   "categories": [
     "education",
     "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
