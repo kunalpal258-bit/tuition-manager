@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "description": "Tuition Manager - Manage your tuition classes",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "kunalpal258-bit.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "kunalpal258-bit.github",
+  "start_url": "/",
+  "theme_color": "#2563eb",
+  "id": "io.github.kunalpal258.tution",
+  "lang": "en",
+  "categories": [
+    "education",
+    "productivity"
+  ]
+}
